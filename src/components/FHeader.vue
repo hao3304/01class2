@@ -31,7 +31,7 @@
         <div class="item">
           <a href="http://144.34.213.22/software/python-3.6.8-amd64.exe">
             <h5>python</h5>
-            <div>3.6.8 window64位</div>
+            <div>3.6.8 windows64位</div>
             <p class="p">点击下载</p>
           </a>
         </div>
