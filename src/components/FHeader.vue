@@ -26,12 +26,13 @@
         <img src="~@/assets/images/ercode.jpg" alt="" />
       </div>
     </div>
-    <el-dialog :modal="false" title="相关下载" :visible.sync="dialog">
+    <el-dialog  title="相关下载" :visible.sync="dialog">
       <div class="m-download">
         <div class="item">
           <a href="http://144.34.213.22/software/python-3.6.8-amd64.exe">
-            <div>python-3.6.8</div>
-            <div class="p">点击下载</div>
+            <h5>python</h5>
+            <div>3.6.8 window64位</div>
+            <p class="p">点击下载</p>
           </a>
         </div>
       </div>
@@ -168,7 +169,7 @@ export default {
   display: flex;
   align-items: center;
   .item {
-    width: 150px;
+    width: 200px;
     height: 100px;
     display: flex;
 
@@ -182,13 +183,17 @@ export default {
       height: 100%;
       width: 100%;
       color: #fff;
-      font-size: 20px;
       text-align: center;
       transition: 0.4s all;
       flex-direction: column;
-      .p {
+      h5 {
+        font-size: 24px;
+        line-height: 38px;
+      }
+      p {
         font-size: 16px;
-        color: #eee;
+        color: #bbb;
+        margin-top: 4px;
       }
       &:hover {
         background-color: #0371df;
