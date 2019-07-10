@@ -31,7 +31,21 @@
         <div class="item">
           <a href="http://144.34.213.22/software/python-3.6.8-amd64.exe">
             <h5>python</h5>
-            <div>3.6.8 windows64位</div>
+            <div>3.6.8 windows 64位</div>
+            <p class="p">点击下载</p>
+          </a>
+        </div>
+        <div class="item">
+          <a href="http://144.34.213.22/software/python-3.6.8-win7-32.exe">
+            <h5>python</h5>
+            <div>3.6.8 windows 32位</div>
+            <p class="p">点击下载</p>
+          </a>
+        </div>
+        <div class="item">
+          <a href="http://144.34.213.22/software/python-3.3.1适合xp32位系统.msi">
+            <h5>python</h5>
+            <div>3.3.1 windows xp 32位</div>
             <p class="p">点击下载</p>
           </a>
         </div>
@@ -172,6 +186,7 @@ export default {
     width: 200px;
     height: 100px;
     display: flex;
+    margin-right: 10px;
 
     a {
       display: flex;
