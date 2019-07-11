@@ -36,14 +36,14 @@
           </a>
         </div>
         <div class="item">
-          <a href="http://144.34.213.22/software/python-3.6.8-win7-32.exe">
+          <a href="http://01class.cn:82/software/python-3.6.8-win7-32.exe">
             <h5>python</h5>
             <div>3.6.8 windows 32位</div>
             <p class="p">点击下载</p>
           </a>
         </div>
         <div class="item">
-          <a href="http://144.34.213.22/software/python-3.3.1适合xp32位系统.msi">
+          <a href="http://01class.cn:82/software/python-3.3.1适合xp32位系统.msi">
             <h5>python</h5>
             <div>3.3.1 windows xp 32位</div>
             <p class="p">点击下载</p>
